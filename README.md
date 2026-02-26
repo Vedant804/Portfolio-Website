@@ -8,7 +8,7 @@ The website highlights my featured AI projects, technical skills, certifications
 
 ## 🌐 Live Website
 
-🔗 [View Portfolio](YOUR_LIVE_WEBSITE_LINK)
+🔗 [View Portfolio](https://vedantjoshi1845.vercel.app)
 
 ---
 
@@ -38,10 +38,3 @@ You can also reach me via:
 - GitHub: https://github.com/Vedant804
 
 ---
-
-## 🚀 How To Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
